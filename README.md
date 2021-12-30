@@ -20,9 +20,9 @@
 
 ## My Git Status
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=devtuk&theme=tokyonight&count_private=true&show_icons=true&locale=en&layout=compact" alt="devtuk"/> </p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=devtuk&theme=blueberry&count_private=true&show_icons=true&locale=en&layout=compact" alt="devtuk"/> </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devtuk&show_icons=true&t&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devtuk&show_icons=true&theme=blueberry&)
 
 
 
