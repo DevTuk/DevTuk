@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Diego Barros</h1>
+<h1 align="center">Hi 👋, I'm Diego Barros Sofio</h1>
 <h3 align="center">A Full-stack Web Developer from Argentina</h3>
 
 <a href="#"><img width="auto" height="auto" src="https://wallpapercave.com/wp/wp4785064.gif" height="80px"/></a>
