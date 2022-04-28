@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diego Barros Sofio</h1>
-<h3 align="center">I am from Argentina</h3>
+<h3 align="center">I'm from Argentina</h3>
 
 <a href="#"><img width="auto" height="auto" src="https://wallpapercave.com/wp/wp4785064.gif" height="80px"/></a>
 
