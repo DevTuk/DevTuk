@@ -6,7 +6,7 @@
 ## Connect with me:
 
 <p align="left">
-<a href="[https://www.linkedin.com/in/diego-barros-sofio-355725168/](https://www.linkedin.com/in/diego-barros-sofio/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diego barros sofio" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/diego-barros-sofio-355725168/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diego barros sofio" height="30" width="40" /></a>
 </p>
 
 ## Languages and Tools:
