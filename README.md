@@ -21,7 +21,8 @@
 ## Currently Learning:
 
  <a href="https://nodejs.org/es/" target="_blank" rel="noreferrer">
-            <i class="devicon-nextjs-original-wordmark colored"></i>
+            <img src="ttps://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"
+              class="devicon-nextjs-original-wordmark colored"></i>
            </a>
 
 ## My Git Status
