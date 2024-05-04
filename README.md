@@ -20,10 +20,7 @@
   
 ## Currently Learning:
 
- <a href="https://nodejs.org/es/" target="_blank" rel="noreferrer">
-            <img src="ttps://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"
-              class="devicon-nextjs-original-wordmark colored"></i>
-           </a>
+ <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Nextjs" width="40" height="40"/> </a>
 
 ## My Git Status
 
